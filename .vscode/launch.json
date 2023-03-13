@@ -1,0 +1,82 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lab1.Task2",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab1.Task2/bin/Debug/net6.0/Lab1.Task2.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab1.Task2",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab1.Task3",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab1.Task3/bin/Debug/net6.0/Lab1.Task3.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab1.Task3",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab2.Task1",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab2.Task1/bin/Debug/net6.0/Lab2.Task1.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab2.Task1",
+      "console": "externalTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab2.Task2",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab2.Task2/bin/Debug/net6.0/Lab2.Task2.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab2.Task2",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab2.Task3",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab2.Task3/bin/Debug/net6.0/Lab2.Task3.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab2.Task3",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab3.Task1",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab3.Task1/bin/Debug/net6.0/Lab3.Task1.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab3.Task1",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Lab3.Task2",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab3.Task2/bin/Debug/net6.0/Lab3.Task2.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab3.Task2",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+  ]
+}
