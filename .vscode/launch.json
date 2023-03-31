@@ -77,6 +77,17 @@
       "cwd": "${workspaceFolder}/Lab3.Task2",
       "console": "internalConsole",
       "stopAtEntry": false
+    },
+    {
+      "name": "Lab8",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/Lab8/bin/Debug/net6.0/Lab8.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lab8",
+      "console": "internalConsole",
+      "stopAtEntry": false
     }
   ]
 }
