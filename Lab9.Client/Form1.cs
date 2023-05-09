@@ -6,8 +6,7 @@ namespace Lab9.Client
 {
     public partial class Form1 : Form
     {
-        private Matrix<int> matrix;
-        private Matrix<NumericUpDown> numericUpDownMatrix;
+        private Matrix<NumericUpDown> _numericUpDownMatrix;
 
         private const int StartXMatrixPosition = 3;
         private const int StartYMatrixPosition = 3;
@@ -20,13 +19,6 @@ namespace Lab9.Client
         public Form1()
         {
             InitializeComponent();
-
-           
-
-            //client.Get
-            //client.Get
-            //client.Get
-            
         }
 
         private void createMatrixButton_Click(object sender, EventArgs e)
@@ -36,31 +28,30 @@ namespace Lab9.Client
             var rows = (int)rowAmountNumericUpDown.Value;
             var columns = (int)columnAmountNumericUpDown.Value;
 
-            matrix = new Matrix<int>(rows, columns);
-            numericUpDownMatrix = new Matrix<NumericUpDown>(rows, columns);
+            _numericUpDownMatrix = new Matrix<NumericUpDown>(rows, columns);
 
             var xPosition = StartXMatrixPosition;
             var yPosition = StartYMatrixPosition;
 
-            for (int row = 0; row < rows; row++)
+            for (var row = 0; row < rows; row++)
             {
-                for (int column = 0; column < columns; column++)
+                for (var column = 0; column < columns; column++)
                 {
-                    numericUpDownMatrix[row, column] = new NumericUpDown();
+                    _numericUpDownMatrix[row, column] = new NumericUpDown();
 
-                    matrixPanel.Controls.Add(numericUpDownMatrix[row, column]);
+                    matrixPanel.Controls.Add(_numericUpDownMatrix[row, column]);
 
                     var numericUpDownName = $"Cell{row}{column}";
 
-                    numericUpDownMatrix[row, column].Name = numericUpDownName;
+                    _numericUpDownMatrix[row, column].Name = numericUpDownName;
 
-                    numericUpDownMatrix[row, column].Width = MatrixNumericUpDownWidth;
-                    numericUpDownMatrix[row, column].Height = MatrixNumericUpDownHeight;
-                    numericUpDownMatrix[row, column].Location = new Point(xPosition, yPosition);
-                    numericUpDownMatrix[row, column].TabIndex = 0;
-                    numericUpDownMatrix[row, column].Minimum = -99;
-                    numericUpDownMatrix[row, column].Maximum = 99;
-                    numericUpDownMatrix[row, column].Controls.RemoveAt(0);
+                    _numericUpDownMatrix[row, column].Width = MatrixNumericUpDownWidth;
+                    _numericUpDownMatrix[row, column].Height = MatrixNumericUpDownHeight;
+                    _numericUpDownMatrix[row, column].Location = new Point(xPosition, yPosition);
+                    _numericUpDownMatrix[row, column].TabIndex = 0;
+                    _numericUpDownMatrix[row, column].Minimum = -99;
+                    _numericUpDownMatrix[row, column].Maximum = 99;
+                    _numericUpDownMatrix[row, column].Controls.RemoveAt(0);
 
                     xPosition += (MatrixNumericUpDownWidth + DistanceBetweenMatrixNumericUpDown);
                 }
@@ -74,57 +65,57 @@ namespace Lab9.Client
         {
             var random = new Random();
 
-            if(numericUpDownMatrix is null)
+            if (_numericUpDownMatrix is null)
             {
                 MessageBox.Show("Matrix is empty");
                 return;
             }
 
-            for (int row = 0; row < numericUpDownMatrix.Rows; row++)
+            for (var row = 0; row < _numericUpDownMatrix.Rows; row++)
             {
-                for (int column = 0; column < numericUpDownMatrix.Columns; column++)
+                for (var column = 0; column < _numericUpDownMatrix.Columns; column++)
                 {
                     var randomNumber = random.Next(-99, 100); // Generates a random number between 1 and 100 (inclusive)
 
-                    numericUpDownMatrix[row, column].Value = randomNumber;
+                    _numericUpDownMatrix[row, column].Value = randomNumber;
                 }
             }
         }
 
         private void clearMatrixButton_Click(object sender, EventArgs e)
         {
-            if (numericUpDownMatrix is null)
+            if (_numericUpDownMatrix is null)
             {
                 MessageBox.Show("Matrix is empty");
                 return;
             }
 
-            for (int row = 0; row < numericUpDownMatrix.Rows; row++)
+            for (var row = 0; row < _numericUpDownMatrix.Rows; row++)
             {
-                for (int column = 0; column < numericUpDownMatrix.Columns; column++)
+                for (var column = 0; column < _numericUpDownMatrix.Columns; column++)
                 {
-                    numericUpDownMatrix[row, column].Value = 0;
+                    _numericUpDownMatrix[row, column].Value = 0;
                 }
             }
         }
 
         private void makeTaskButton_Click(object sender, EventArgs e)
         {
-            if (numericUpDownMatrix is null)
+            if (_numericUpDownMatrix is null)
             {
                 MessageBox.Show("Matrix is empty");
                 return;
             }
 
-            ServiceReference1.Service1Client client = new ServiceReference1.Service1Client();
+            var client = new ServiceReference1.Service1Client();
 
             var minimumPositiveRow = 0;
             var minimumPositiveCount = 0;
 
-            for (int row = 0; row < numericUpDownMatrix.Rows; row++)
+            for (var row = 0; row < _numericUpDownMatrix.Rows; row++)
             {
-                var rowValues = GetArrayFromMatrixNumericUpDownByRow(numericUpDownMatrix, row);
-                int positiveElementsCount = client.GetAmountOfPositiveValues(rowValues);
+                var rowValues = GetArrayFromMatrixNumericUpDownByRow(_numericUpDownMatrix, row);
+                var positiveElementsCount = client.GetAmountOfPositiveValues(rowValues);
 
                 if (minimumPositiveCount > positiveElementsCount || minimumPositiveCount == 0)
                 {
@@ -133,13 +124,14 @@ namespace Lab9.Client
                 }
             }
 
-            MessageBox.Show($"Строка матрицы содержащей минимальное количество положительных элементов: {minimumPositiveRow + 1}. Количество положительных элементов: {minimumPositiveCount}");
+            MessageBox.Show(
+                $"Строка матрицы содержащей минимальное количество положительных элементов: {minimumPositiveRow + 1}. Количество положительных элементов: {minimumPositiveCount}");
         }
 
         private int[] GetArrayFromMatrixNumericUpDownByRow(Matrix<NumericUpDown> matrixNumericUpDown, int row)
         {
-            int[] array1D = new int[matrixNumericUpDown.Columns];
-            for (int i = 0; i < matrixNumericUpDown.Columns; i++)
+            var array1D = new int[matrixNumericUpDown.Columns];
+            for (var i = 0; i < matrixNumericUpDown.Columns; i++)
             {
                 array1D[i] = (int)matrixNumericUpDown[row, i].Value;
             }
