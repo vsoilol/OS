@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Lab10/backend/.idea
+Lab10/docker/.idea
+Lab10/docker/docker-storage/databasedata
+Lab10/frontend/.idea
+.idea

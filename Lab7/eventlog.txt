@@ -1,0 +1,398 @@
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-2239442913-117306719-3539852007-560114714-3922304521-2347205172-1136114277'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-1181853113-1936146654-2601893022-3056198281-2235806912-686270969-4166141473'
+Warning: Name resolution for the name default.exp-tas.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name trouter-azsc-euno-0-a.trouter.skype.com timed out after none of the configured DNS servers responded.
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-12T09:23:45.6701417Z
+Wake Time: 2023-05-12T11:17:22.0236291Z
+
+Wake Source: 0
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7675704406053', '0', '4413', '0', '0'
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'true', '1600', '31660'
+Information: Possible detection of CVE: 2023-05-12T11:17:20.5000000Z
+Additional Information: 2023-05-12T09:24:05.6541883Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-12T11:17:20.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'5', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'5', '5', '2', '0', '29'
+Information: The description for Event ID '524' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '1', '5', '0', '0x80', '0', '1', '3', '5', '1', '4'
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Name resolution for the name client.wns.windows.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name plugins.jetbrains.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name www.jetbrains.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name doh.opendns.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name fls.jetbrains-agent.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name www.bing.com timed out after none of the configured DNS servers responded.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Information: The system uptime is 182509 seconds.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: WLAN AutoConfig detected limited connectivity, attempting automatic recovery.
+
+Recovery Type: 4
+Error Code: 0x0
+Trigger Reason: 5
+IP Family: 0
+
+Warning: The application System with process id 4 stopped the removal or ejection for the device USB\VID_0BC2&PID_AA15\MSFT30NABS6XTP.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The local adapter does not support an important Low Energy controller state to support peripheral mode.  The minimum required supported state mask is 0x2491f7fffff, got 0xffffffff.  Low Energy peripheral role functionality will not be available.
+Information: Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during startup.
+Warning: Name resolution for the name trouter-azsc-euno-0-a.trouter.skype.com timed out after none of the configured DNS servers responded.
+Information: The description for Event ID '98' in Source 'Microsoft-Windows-Ntfs' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'D:', '\Device\HarddiskVolume7', '0'
+Information: Driver Management has concluded the process to add Service WUDFWpdFs for Device Instance ID SWD\WPDBUSENUM\{094DC575-F031-11ED-A6DF-98FA9BF3BB3E}#0000000000008000 with the following status: 0.
+Information: The driver package installation has succeeded.
+Information: The UMDF service WpdFs (CLSID {112de495-ac4c-46f8-b663-6a4266c53313}) was upgraded.  It requires framework version 2.31.0 or higher.
+Information: A driver package which uses user-mode driver framework version 2.31.0 is being installed on device SWD\WPDBUSENUM\{094DC575-F031-11ED-A6DF-98FA9BF3BB3E}#0000000000008000.
+Information: The description for Event ID '1073831939' in Source 'WPDClassInstaller' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:
+Information: The description for Event ID '1073831937' in Source 'WPDClassInstaller' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:
+Information: The description for Event ID '1073831936' in Source 'WPDClassInstaller' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'WPD Device'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3404.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-12T07:16:08.6356531Z
+Wake Time: 2023-05-12T08:19:03.2245715Z
+
+Wake Source: 0
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7675672467521', '0', '4299', '0', '0'
+Information: Possible detection of CVE: 2023-05-12T08:19:01.5000000Z
+Additional Information: 2023-05-12T07:16:12.2636147Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-12T08:19:01.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '27'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'false', '30590', '31580'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-3796681529-438185927-2631187386-3724120636-2956485253-1622814049-1408076125'
+Information: Installation Successful: Windows successfully installed the following update: 9PDXGNCFSCZV-CanonicalGroupLimited.Ubuntu
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'106', '\??\C:\Users\vsoil\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\Settings\settings.dat', '1', '1'
+Information: Installation Started: Windows has started installing the following update: 9PDXGNCFSCZV-CanonicalGroupLimited.Ubuntu
+Information: Installation Started: Windows has started installing the following update: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'130', '\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.SkypeApp_15.97.3404.0_x64__kzf8qxf38zg5c\ActivationStore.dat', '0', '0'
+Information: Possible detection of CVE: 2023-05-12T05:04:02.1382420Z
+Additional Information: 2023-05-12T05:04:02.1378647Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-12T05:04:02.1382420Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '-180', '0', '0', '0'
+Information: The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123) with reference id 647264040. Current local stratum number is 4.
+Information: Windows Update started downloading an update.
+Information: Windows Update started downloading an update.
+Information: The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123).
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'119', '\??\C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat', '4', '1'
+Information: The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3204.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T19:22:19.4361268Z
+Wake Time: 2023-05-12T04:38:30.7325956Z
+
+Wake Source: 0
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7686060098394', '0', '4320', '0', '0'
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'true', '31010', '31580'
+Information: Possible detection of CVE: 2023-05-12T04:38:29.5000000Z
+Additional Information: 2023-05-11T19:22:22.2644600Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-12T04:38:29.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '25'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3204.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T19:18:01.4224197Z
+Wake Time: 2023-05-11T19:21:02.1302630Z
+
+Wake Source: 0
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7675640529254', '0', '4532', '0', '0'
+Information: Possible detection of CVE: 2023-05-11T19:21:00.5000000Z
+Additional Information: 2023-05-11T19:18:04.8873233Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T19:21:00.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '23'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'false', '31580', '31580'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3204.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'161', '\??\C:\ProgramData\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\S-1-5-21-2373165739-1707890278-3885963050-1001\SystemAppData\Helium\Cache\65aec00670e79299_COM15.dat', '1', '1'
+Warning: Name resolution for the name t-ring-fallbacks2.msedge.net timed out after none of the configured DNS servers responded.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T17:55:14.1177181Z
+Wake Time: 2023-05-11T17:58:54.0859714Z
+
+Wake Source: 0
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'32', '\Device\HarddiskVolume1\Boot\BCD', '26', '2'
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7685688627468', '0', '4577', '0', '0'
+Information: Possible detection of CVE: 2023-05-11T17:58:52.5000000Z
+Additional Information: 2023-05-11T17:55:17.7054400Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T17:58:52.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '21'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Information: A service was installed in the system.
+
+Service Name:  postgresql-15
+Service File Name:  "C:\Program Files\PostgreSQL\15\bin\pg_ctl.exe" runservice -N "postgresql-15" -D "C:\Program Files\PostgreSQL\15\data" -w
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  NT AUTHORITY\NetworkService
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'true', '24570', '31780'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T12:32:28.8255359Z
+Wake Time: 2023-05-11T14:34:09.7097069Z
+
+Wake Source: 0
+Information: The description for Event ID '130' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'52005274', '52005281'
+Information: The description for Event ID '131' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2', '422', '422'
+Information: Possible detection of CVE: 2023-05-11T14:34:07.5000000Z
+Additional Information: 2023-05-11T12:32:35.0457637Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T14:34:07.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'4', '4', '4', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'4', '4', '0', '4', '19'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T11:37:25.2632370Z
+Wake Time: 2023-05-11T12:31:03.8327631Z
+
+Wake Source: 0
+Information: The description for Event ID '130' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'51896635', '51896642'
+Information: The description for Event ID '131' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '421', '421'
+Information: Possible detection of CVE: 2023-05-11T12:30:46.5000000Z
+Additional Information: 2023-05-11T11:37:33.8029627Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T12:30:46.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'4', '4', '4', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'4', '4', '0', '4', '17'
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'95', '\??\C:\Users\vsoil\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\Settings\settings.dat', '3', '1'
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'163', '\??\C:\ProgramData\Packages\Microsoft.PowerShell_8wekyb3d8bbwe\S-1-5-21-2373165739-1707890278-3885963050-1001\SystemAppData\Helium\Cache\4d33707054e23e85_COM15.dat', '1', '1'
+Warning: The local adapter does not support an important Low Energy controller state to support peripheral mode.  The minimum required supported state mask is 0x2491f7fffff, got 0xffffffff.  Low Energy peripheral role functionality will not be available.
+Information: Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during startup.
+Warning: Name resolution for the name www.bing.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name doh.opendns.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name world.relay.skype.com timed out after none of the configured DNS servers responded.
+Warning: Name resolution for the name download.yandex.ru timed out after none of the configured DNS servers responded.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-668824925-1315026840-2582800359-287081984-1650923822-3685314378-514211992'
+Warning: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC : Timed out during an operation.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3204.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-11T10:16:46.9196383Z
+Wake Time: 2023-05-11T11:17:25.8950675Z
+
+Wake Source: 0
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7685816716835', '0', '4318', '0', '0'
+Information: Possible detection of CVE: 2023-05-11T11:17:24.5000000Z
+Additional Information: 2023-05-11T10:16:50.1619528Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T11:17:24.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '15'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'false', '31390', '31780'
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'89', '\??\C:\Users\vsoil\AppData\Local\Microsoft\VisualStudio\17.0_be61931d\privateregistry.bin', '10075', '1352'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-1214361391-1954345221-1113311102-1730290019-1946202198-2525103809-506049590'
+Information: The system uptime is 96109 seconds.
+Information: The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information: The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information: The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information: The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information: The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information: Windows Update started downloading an update.
+Information: Windows Update started downloading an update.
+Information: The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'134', '\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.2.8_8.2305.5001.0_x64__8wekyb3d8bbwe\ActivationStore.dat', '0', '0'
+Information: Windows Update started downloading an update.
+Information: The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'134', '\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.2.8_8.2305.5001.0_x86__8wekyb3d8bbwe\ActivationStore.dat', '0', '0'
+Information: Possible detection of CVE: 2023-05-11T07:54:04.5057335Z
+Additional Information: 2023-05-11T07:54:04.5056070Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T07:54:04.5057335Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '-180', '0', '0', '0'
+Information: Possible detection of CVE: 2023-05-11T07:54:04.5014645Z
+Additional Information: 2023-05-11T07:54:04.5007066Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T07:54:04.5014645Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '-180', '0', '0', '0'
+Information: The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123) with reference id 647264040. Current local stratum number is 4.
+Information: Possible detection of CVE: 2023-05-11T07:54:04.4970903Z
+Additional Information: 2023-05-11T07:54:00.7512967Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T07:54:04.4970903Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '-180', '0', '0', '0'
+Information: The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information: The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123).
+Information: The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information: The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information: The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider in the current operating environment as well.
+Information: The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-3877218599-1036384873-2255482588-141444170-104655805-872482394-1983384956'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}', '{15C20B67-12E7-4BB6-92BB-7AFF07997402}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Microsoft.SkypeApp_15.97.3204.0_x64__kzf8qxf38zg5c', 'Unavailable'
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}', '{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}', 'NT AUTHORITY', 'LOCAL SERVICE', 'S-1-5-19', 'LocalHost (Using LRPC)', 'Unavailable', 'Unavailable'
+Information: User Logon Notification for Customer Experience Improvement Program
+Information: The system has returned from a low power state.
+
+Sleep Time: 2023-05-10T22:01:46.5243424Z
+Wake Time: 2023-05-11T07:20:53.1419455Z
+
+Wake Source: 0
+Warning: The local adapter does not support an important Low Energy controller state to support peripheral mode.  The minimum required supported state mask is 0x2491f7fffff, got 0xffffffff.  Low Energy peripheral role functionality will not be available.
+Information: Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during startup.
+Information: The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'
+Information: The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1', '?'
+Information: The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'
+Information: The description for Event ID '30' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'7675640529254', '0', '4844', '0', '0'
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'true', '31780', '31780'
+Information: Possible detection of CVE: 2023-05-11T07:20:51.5000000Z
+Additional Information: 2023-05-10T22:01:50.2942971Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2023-05-11T07:20:51.5000000Z) is detected.
+This Event is raised by a User mode process.
+
+Information: The description for Event ID '107' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '5', '1601-01-01T00:00:00.0000000Z', '1601-01-01T00:00:00.0000000Z', '0', '0'
+Information: The description for Event ID '42' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'6', '5', '4', '0', '13'
+Information: The description for Event ID '187' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'53', '\Device\HarddiskVolume2\Windows\System32\winlogon.exe', '3', '2'
+Information: User Logoff Notification for Customer Experience Improvement Program
+Information: The description for Event ID '105' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'false', '31780', '31780'
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information: The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-969317255-1702874446-1235598364-2108344534-2472145751-19306346-3424684001'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-1591319018-1730441296-1504461667-1401096125-1059480837-644420456-688069141'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-2549222250-2364084185-2668280545-3248065797-2750048097-3105026068-1527214967'
+Warning: The description for Event ID '10016' in Source 'DCOM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'application-specific', 'Local', 'Activation', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', '{8BC3F05E-D86B-11D0-A075-00C04FB68820}', 'DESKTOP-HIMVH38', 'vsoil', 'S-1-5-21-2373165739-1707890278-3885963050-1001', 'LocalHost (Using LRPC)', 'Unavailable', 'S-1-15-2-1370500579-2459728038-4078837670-2440441352-247754254-395940389-1206322445'
+Information: The System log file was cleared.
